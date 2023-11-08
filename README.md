@@ -13,6 +13,6 @@ shows the result of all the students in the form of the table.<br/>
 #### searchRec():
 gets the registration number from the user and search it in the array. if found, then returns the index of it in the array otherwise displays message that record not found.<br/>
 #### delRecord():
-utilizes the **searchREc()** function and deletes the specific index by overwriting the data to one prior position.<br/>
+utilizes the **searchRec()** function and deletes the specific index by overwriting the data to one prior position.<br/>
 #### main():
 tester for all the things
